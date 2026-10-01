@@ -1,0 +1,48 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+secrets/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Frontend dependency/build caches
+node_modules/
+.npm-cache/
+.vite/
+coverage/
+
+# Imported and downloaded source artifacts
+/stocksense/
+/stocksense.zip
+/StockSense AI Inventory for a Shopping Mall.txt
+*.zip
+*.rar
+*.7z
+*.tar.gz

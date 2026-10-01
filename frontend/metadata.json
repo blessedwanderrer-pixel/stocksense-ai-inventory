@@ -1,0 +1,6 @@
+{
+  "name": "StockSense",
+  "description": "Intelligent retail inventory management with authoritative role routing, real-time KPI tracking, and operational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
